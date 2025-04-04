@@ -1,5 +1,8 @@
+/* App component styles */
 .App {
   text-align: center;
+  min-height: 100vh;
+  padding-top: 64px; /* Add padding to account for fixed navbar */
 }
 
 .App-logo {
